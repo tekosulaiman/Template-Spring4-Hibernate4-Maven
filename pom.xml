@@ -233,10 +233,5 @@
         </dependency>
 
         <!-- Spring Framework 4.0.1 - spring-websocket-4.0.1.RELEASE -->
-        <dependency>
-            <groupId>unknown.binary</groupId>
-            <artifactId>mysql-connector-java-5.1.23-bin</artifactId>
-            <version>SNAPSHOT</version>
-        </dependency>
     </dependencies>
 </project>
