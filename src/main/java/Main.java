@@ -13,5 +13,6 @@ public class Main {
 	EmployeeService employeeService = (EmployeeService) applicationContext.getBean("employeeService");
         
         System.out.println("List : "+employeeService.getAllEmployees());
+        System.out.println("Hello my git");
     }
 }
